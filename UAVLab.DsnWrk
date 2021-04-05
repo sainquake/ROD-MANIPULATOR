@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=RodManipulator_PRJ.PrjPcb
+[Project2]
+ProjectPath=lib\lib.LibPkg
+[Project3]
+ProjectPath=lib\AltiumDesigner\2021-02-11_09-06-45\UL_Import.PrjScr
+[Project4]
+ProjectPath=lib\AltiumDesigner\2021-02-11_09-06-45\2021-02-11_09-06-45.LibPkg
+[Project5]
+ProjectPath=CAN GPS MAG BARO v0.1\CAN GPS MAG BARO v0.1.PrjPcb
