@@ -33,12 +33,18 @@
 
 
 /* Variables */
+<<<<<<< HEAD
 //#undef errno
 extern int errno;
 extern int __io_putchar(int ch) __attribute__((weak));
 extern int __io_getchar(void) __attribute__((weak));
 
 register char * stack_ptr asm("sp");
+=======
+extern int __io_putchar(int ch) __attribute__((weak));
+extern int __io_getchar(void) __attribute__((weak));
+
+>>>>>>> aa535e3b6f8208a332008b06d39a132c74b0eb4e
 
 char *__env[1] = { 0 };
 char **environ = __env;

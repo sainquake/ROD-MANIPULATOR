@@ -168,3 +168,7 @@ PB3.Locked=true
 PB4.Signal=GPIO_Output
 PA2.Locked=true
 PB3.GPIO_Label=FAULT
+<<<<<<< HEAD
+=======
+isbadioc=false
+>>>>>>> aa535e3b6f8208a332008b06d39a132c74b0eb4e
